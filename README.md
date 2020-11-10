@@ -11,3 +11,5 @@ http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 * Why is it important to have a single source of truth for data in a react state?
 * Will having all my data in a single place sometimes make my state updates harder?
 * What are the easiest ways to create, update, and delete data in an array of objects without directly mutating state?
+
+## This project was taken from Caryn McCarthy
